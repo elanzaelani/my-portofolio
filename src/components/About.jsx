@@ -17,10 +17,12 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                eos, quam vel quisquam, explicabo sit labore dignissimos optio
-                ratione quibusdam doloribus pariatur consequuntur sint.
-                Reprehenderit cupiditate possimus facere quasi voluptatem?
+                I am a passionate freelance front-end web developer proficient
+                in HTML, CSS, JavaScript, and React.js framework. With a keen
+                eye for detail and a dedication to crafting visually stunning
+                and highly interactive websites, I transform design concepts
+                into seamless user experiences, bringing my clients' online
+                visions to life.
               </p>
               <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (
